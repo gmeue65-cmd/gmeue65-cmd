@@ -42,7 +42,6 @@ Cualquier fragmento de código, lógica matemática, arquitectura de software o 
 * **Trazabilidad:** Este sistema incluye mecanismos de rastreo lógico incrustados para auditar el uso lícito de la tecnología y proteger los derechos patrimoniales del titular.
 ### 🛡️ Sello de Autoría Criptográfica Manual
 La legitimidad de esta obra y su algoritmo reside en el conocimiento exclusivo de los coeficientes de control por parte de su autor original:
-$$(n+1)a^6 - 3a^5 + a^4 + 8a^3 - 4a^2$$
 ---
 **Copyright © 2026 Juan Valentín García Espinoza**  
 *ID GAEJ940310HSPRSN02 | Registro de Diseño y Arquitectura Resiliente.*  
