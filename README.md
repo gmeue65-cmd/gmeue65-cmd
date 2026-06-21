@@ -43,7 +43,7 @@ Cualquier fragmento de código, lógica matemática, arquitectura de software o 
 ### 🛡️ Sello de Autoría Criptográfica Manual
 La legitimidad de esta obra y su algoritmo reside en el conocimiento exclusivo de los coeficientes de control por parte de su autor original:
 ---
-**Copyright © 2026 Juan Valentín García Espinoza**  
+**© 2026 Juan Valentín García Espinoza**  
 *ID GAEJ940310HSPRSN02 | Registro de Diseño y Arquitectura Resiliente.*  
 *Todos los derechos reservados. Prohibida la reproducción o distribución sin autorización expresa por escrito del titular.*
 euniprincez-digital-2026/
