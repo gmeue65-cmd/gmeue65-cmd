@@ -1,7 +1,7 @@
-## Hi there 👋
+I## Hi there 👋
 
 <!--
-**gmeue65-cmd/gmeue65-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gmeue65-cmd-github.com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
